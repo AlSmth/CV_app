@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+build/
+local.properties
+*.iml
+app/src/main/assets/hand_landmarker.task
+keystore.properties
+*.jks
+*.apk

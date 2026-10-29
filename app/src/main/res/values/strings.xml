@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gesture Control</string>
+    <string name="accessibility_desc">Позволяет выполнять нажатия, свайпы и кнопки «Назад»/«Домой» по жестам руки, распознанным через фронтальную камеру. Приложение не читает содержимое экрана.</string>
+    <string name="btn_camera">1. Разрешить камеру</string>
+    <string name="btn_accessibility">2. Включить спец. возможности</string>
+    <string name="btn_start">▶ Запустить управление жестами</string>
+    <string name="btn_stop">■ Остановить</string>
+    <string name="btn_preview">👁 Посмотреть, как камера видит руку</string>
+    <string name="preview_title">Распознавание</string>
+    <string name="notif_title">Управление жестами активно</string>
+    <string name="notif_text">Камера отслеживает руку</string>
+    <string name="notif_stop">Стоп</string>
+    <string name="help">
+Жесты (держите руку в 30–60 см от фронтальной камеры):\n\n
+☝ Указательный палец — двигать курсор\n
+👌 Щипок (большой + указательный) — нажатие\n
+👌 Удерживать щипок ~1 с — долгое нажатие\n
+👌 Щипок и вести руку — листать (как пальцем), разжать — отпустить\n
+✊ Кулак (держать) — «Назад»\n
+✌ Два пальца (держать) — «Домой»\n
+🤟 Три пальца (держать) — недавние приложения\n\n
+Если Android пишет «Ограниченная настройка»: Настройки → Приложения → Gesture Control → ⋮ → «Разрешить ограниченные настройки», затем снова включите службу.
+    </string>
+</resources>
